@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8WUgBANapTky4LrII5khj+r6bdUGKXWJYmbK3fLt1CY=",
+  "Source": "EmailApplication",
+  "BasePath": "_content/EmailApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
